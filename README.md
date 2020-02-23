@@ -9,6 +9,6 @@
 - face_detec_vi:
 	- Call the camera to process the image in real time
 - Required：
-	- opencv (to read picturs)
+	- opencv (to read pics)
 ----------
 10/27/2018 5:23:46 PM 
